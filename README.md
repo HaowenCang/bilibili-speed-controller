@@ -75,7 +75,6 @@ A browser extension that adds higher playback speed options to Bilibili video pl
 bilibili-speed-controller/
 ├── content.js        # Core functionality implementation
 ├── manifest.json     # Extension configuration file
-├── popup.html        # Extension popup page
 └── README.md         # Project documentation
 ```
 
