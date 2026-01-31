@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "B站倍速扩展",
+  "version": "1.0.1",
+  "description": "自动为B站视频添加3、4、8、16倍速播放选项",
+  "content_scripts": [
+    {
+      "matches": ["https://www.bilibili.com/video/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
