@@ -10,9 +10,7 @@
       "run_at": "document_idle"
     }
   ],
-  "homepage_url": "https://github.com",
-  "author": "User",
-  "update_url": "https://example.com/updates.xml",
+  "author": "Evan Williams",
   "short_name": "B站倍速",
   "icons": {
     "16": "icon16.png",
@@ -28,3 +26,4 @@
     }
   }
 }
+
