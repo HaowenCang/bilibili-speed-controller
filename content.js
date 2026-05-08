@@ -3,7 +3,7 @@ function addSpeedOptions() {
   const speedMenu = document.querySelector('ul.bpx-player-ctrl-playbackrate-menu');
   if (speedMenu) {
     // 定义要添加的倍速选项，按从大到小排序
-    const speeds = [16, 8, 4, 3];
+    const speeds = [4, 3];
     let addedCount = 0;
     
     // 先移除已有的倍速选项，以便重新排序
