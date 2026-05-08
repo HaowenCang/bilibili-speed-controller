@@ -6,9 +6,7 @@ A browser extension that adds higher playback speed options to Bilibili video pl
 
 - ✅ Add 3.0x speed option
 - ✅ Add 4.0x speed option
-- ✅ Add 8.0x speed option
-- ✅ Add 16.0x speed option
-- ✅ Speed options sorted from highest to lowest (16 → 8 → 4 → 3 → 2 → etc.)
+- ✅ Speed options sorted from highest to lowest (4 → 3 → 2 → etc.)
 - ✅ Automatically adapts to Bilibili's dynamically loaded player
 - ✅ Lightweight and efficient, no impact on page performance
 
